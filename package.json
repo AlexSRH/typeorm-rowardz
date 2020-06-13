@@ -1,0 +1,20 @@
+{
+  "name": "typeorm-rowardz",
+  "version": "1.0.0",
+  "description": "Mini projetinho para estudo de TypeORM",
+  "main": "index.js",
+  "author": "alexsrc",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^4.2.0",
+    "typeorm": "^0.2.25"
+  },
+  "devDependencies": {
+    "@types/faker": "^4.1.12",
+    "@types/node": "^14.0.13",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
