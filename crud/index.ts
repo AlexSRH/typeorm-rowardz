@@ -1,2 +1,2 @@
-export { createUsers, createPosts } from './createData'
+export { createUsers, createPosts, createCategories, createManyToMany } from './createData'
 export { readUsers } from './readData'
